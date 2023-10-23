@@ -1,1 +1,2 @@
-name: Kevin Lee test
+git commands:
+git config --global http.sslVerify false
